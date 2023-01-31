@@ -1,0 +1,22 @@
+---
+title: "plane analize"
+format: pdf
+editor: visual
+---
+
+```{r}
+data <- read.csv('plane.csv')
+data
+```
+
+```{r}
+library(ggplot2)
+
+ggplot(data, aes(x = REF_DATE, y = VALUE, color = REF_DATE)) +
+   geom_line() 
+
+  
+
+
+
+```

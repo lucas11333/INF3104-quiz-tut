@@ -1,0 +1,181 @@
+﻿REF_DATE,GEO,DGUID,Air passenger traffic,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2017,Canada,2016A000011124,"Total, passengers enplaned and deplaned",Number,223,units,0,v65781694,100000.1,150808451,,,,0
+2018,Canada,2016A000011124,"Total, passengers enplaned and deplaned",Number,223,units,0,v65781694,100000.1,160641587,,,,0
+2019,Canada,2016A000011124,"Total, passengers enplaned and deplaned",Number,223,units,0,v65781694,100000.1,162864077,,,,0
+2020,Canada,2016A000011124,"Total, passengers enplaned and deplaned",Number,223,units,0,v65781694,100000.1,46349535,,,,0
+2021,Canada,2016A000011124,"Total, passengers enplaned and deplaned",Number,223,units,0,v65781694,100000.1,46163940,,,,0
+2017,Canada,2016A000011124,Domestic sector,Number,223,units,0,v65781698,100000.5,88284134,,,,0
+2018,Canada,2016A000011124,Domestic sector,Number,223,units,0,v65781698,100000.5,93299144,,,,0
+2019,Canada,2016A000011124,Domestic sector,Number,223,units,0,v65781698,100000.5,93313525,,,,0
+2020,Canada,2016A000011124,Domestic sector,Number,223,units,0,v65781698,100000.5,29044556,,,,0
+2021,Canada,2016A000011124,Domestic sector,Number,223,units,0,v65781698,100000.5,34369227,,,,0
+2017,Canada,2016A000011124,Transborder sector,Number,223,units,0,v65781699,100000.6,29519218,,,,0
+2018,Canada,2016A000011124,Transborder sector,Number,223,units,0,v65781699,100000.6,31459469,,,,0
+2019,Canada,2016A000011124,Transborder sector,Number,223,units,0,v65781699,100000.6,32192583,,,,0
+2020,Canada,2016A000011124,Transborder sector,Number,223,units,0,v65781699,100000.6,7057778,,,,0
+2021,Canada,2016A000011124,Transborder sector,Number,223,units,0,v65781699,100000.6,4819268,,,,0
+2017,Canada,2016A000011124,Other International sector,Number,223,units,0,v65781700,100000.7,33005099,,,,0
+2018,Canada,2016A000011124,Other International sector,Number,223,units,0,v65781700,100000.7,35882974,,,,0
+2019,Canada,2016A000011124,Other International sector,Number,223,units,0,v65781700,100000.7,37357969,,,,0
+2020,Canada,2016A000011124,Other International sector,Number,223,units,0,v65781700,100000.7,10247201,,,,0
+2021,Canada,2016A000011124,Other International sector,Number,223,units,0,v65781700,100000.7,6975445,,,,0
+2017,"Halifax/Robert L Stanfield International, Nova Scotia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778638,21.1,3984504,,,,0
+2018,"Halifax/Robert L Stanfield International, Nova Scotia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778638,21.1,4252361,,,,0
+2019,"Halifax/Robert L Stanfield International, Nova Scotia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778638,21.1,4128803,,,,0
+2020,"Halifax/Robert L Stanfield International, Nova Scotia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778638,21.1,975018,,,,0
+2021,"Halifax/Robert L Stanfield International, Nova Scotia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778638,21.1,1048821,,,,0
+2017,"Halifax/Robert L Stanfield International, Nova Scotia",,Domestic sector,Number,223,units,0,v65778642,21.5,3387568,,,,0
+2018,"Halifax/Robert L Stanfield International, Nova Scotia",,Domestic sector,Number,223,units,0,v65778642,21.5,3578689,,,,0
+2019,"Halifax/Robert L Stanfield International, Nova Scotia",,Domestic sector,Number,223,units,0,v65778642,21.5,3472505,,,,0
+2020,"Halifax/Robert L Stanfield International, Nova Scotia",,Domestic sector,Number,223,units,0,v65778642,21.5,841596,,,,0
+2021,"Halifax/Robert L Stanfield International, Nova Scotia",,Domestic sector,Number,223,units,0,v65778642,21.5,1037935,,,,0
+2017,"Halifax/Robert L Stanfield International, Nova Scotia",,Transborder sector,Number,223,units,0,v65778643,21.6,289032,,,,0
+2018,"Halifax/Robert L Stanfield International, Nova Scotia",,Transborder sector,Number,223,units,0,v65778643,21.6,299455,,,,0
+2019,"Halifax/Robert L Stanfield International, Nova Scotia",,Transborder sector,Number,223,units,0,v65778643,21.6,355794,,,,0
+2020,"Halifax/Robert L Stanfield International, Nova Scotia",,Transborder sector,Number,223,units,0,v65778643,21.6,65328,,,,0
+2021,"Halifax/Robert L Stanfield International, Nova Scotia",,Transborder sector,Number,223,units,0,v65778643,21.6,,x,,,0
+2017,"Halifax/Robert L Stanfield International, Nova Scotia",,Other International sector,Number,223,units,0,v65778644,21.7,307904,,,,0
+2018,"Halifax/Robert L Stanfield International, Nova Scotia",,Other International sector,Number,223,units,0,v65778644,21.7,374217,,,,0
+2019,"Halifax/Robert L Stanfield International, Nova Scotia",,Other International sector,Number,223,units,0,v65778644,21.7,300504,,,,0
+2020,"Halifax/Robert L Stanfield International, Nova Scotia",,Other International sector,Number,223,units,0,v65778644,21.7,68094,,,,0
+2021,"Halifax/Robert L Stanfield International, Nova Scotia",,Other International sector,Number,223,units,0,v65778644,21.7,,x,,,0
+2017,"Montréal/Pierre Elliott Trudeau International, Quebec",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779126,87.1,17556017,,,,0
+2018,"Montréal/Pierre Elliott Trudeau International, Quebec",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779126,87.1,18804524,,,,0
+2019,"Montréal/Pierre Elliott Trudeau International, Quebec",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779126,87.1,19578357,,,,0
+2020,"Montréal/Pierre Elliott Trudeau International, Quebec",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779126,87.1,5178197,,,,0
+2021,"Montréal/Pierre Elliott Trudeau International, Quebec",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779126,87.1,4976961,,,,0
+2017,"Montréal/Pierre Elliott Trudeau International, Quebec",,Domestic sector,Number,223,units,0,v65779130,87.5,6580060,,,,0
+2018,"Montréal/Pierre Elliott Trudeau International, Quebec",,Domestic sector,Number,223,units,0,v65779130,87.5,6795555,,,,0
+2019,"Montréal/Pierre Elliott Trudeau International, Quebec",,Domestic sector,Number,223,units,0,v65779130,87.5,6895629,,,,0
+2020,"Montréal/Pierre Elliott Trudeau International, Quebec",,Domestic sector,Number,223,units,0,v65779130,87.5,1930808,,,,0
+2021,"Montréal/Pierre Elliott Trudeau International, Quebec",,Domestic sector,Number,223,units,0,v65779130,87.5,2314223,,,,0
+2017,"Montréal/Pierre Elliott Trudeau International, Quebec",,Transborder sector,Number,223,units,0,v65779131,87.6,4013094,,,,0
+2018,"Montréal/Pierre Elliott Trudeau International, Quebec",,Transborder sector,Number,223,units,0,v65779131,87.6,4322613,,,,0
+2019,"Montréal/Pierre Elliott Trudeau International, Quebec",,Transborder sector,Number,223,units,0,v65779131,87.6,4442248,,,,0
+2020,"Montréal/Pierre Elliott Trudeau International, Quebec",,Transborder sector,Number,223,units,0,v65779131,87.6,1032052,,,,0
+2021,"Montréal/Pierre Elliott Trudeau International, Quebec",,Transborder sector,Number,223,units,0,v65779131,87.6,841824,,,,0
+2017,"Montréal/Pierre Elliott Trudeau International, Quebec",,Other International sector,Number,223,units,0,v65779132,87.7,6962863,,,,0
+2018,"Montréal/Pierre Elliott Trudeau International, Quebec",,Other International sector,Number,223,units,0,v65779132,87.7,7686356,,,,0
+2019,"Montréal/Pierre Elliott Trudeau International, Quebec",,Other International sector,Number,223,units,0,v65779132,87.7,8240480,,,,0
+2020,"Montréal/Pierre Elliott Trudeau International, Quebec",,Other International sector,Number,223,units,0,v65779132,87.7,2215337,,,,0
+2021,"Montréal/Pierre Elliott Trudeau International, Quebec",,Other International sector,Number,223,units,0,v65779132,87.7,1820914,,,,0
+2017,"Ottawa/Macdonald-Cartier International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779038,76.1,4796525,,,,0
+2018,"Ottawa/Macdonald-Cartier International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779038,76.1,4979875,,,,0
+2019,"Ottawa/Macdonald-Cartier International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779038,76.1,4971789,,,,0
+2020,"Ottawa/Macdonald-Cartier International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779038,76.1,1339541,,,,0
+2021,"Ottawa/Macdonald-Cartier International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779038,76.1,1122306,,,,0
+2017,"Ottawa/Macdonald-Cartier International, Ontario",,Domestic sector,Number,223,units,0,v65779042,76.5,3787543,,,,0
+2018,"Ottawa/Macdonald-Cartier International, Ontario",,Domestic sector,Number,223,units,0,v65779042,76.5,3886994,,,,0
+2019,"Ottawa/Macdonald-Cartier International, Ontario",,Domestic sector,Number,223,units,0,v65779042,76.5,3870174,,,,0
+2020,"Ottawa/Macdonald-Cartier International, Ontario",,Domestic sector,Number,223,units,0,v65779042,76.5,1017072,,,,0
+2021,"Ottawa/Macdonald-Cartier International, Ontario",,Domestic sector,Number,223,units,0,v65779042,76.5,1098569,,,,0
+2017,"Ottawa/Macdonald-Cartier International, Ontario",,Transborder sector,Number,223,units,0,v65779043,76.6,629793,,,,0
+2018,"Ottawa/Macdonald-Cartier International, Ontario",,Transborder sector,Number,223,units,0,v65779043,76.6,712719,,,,0
+2019,"Ottawa/Macdonald-Cartier International, Ontario",,Transborder sector,Number,223,units,0,v65779043,76.6,680721,,,,0
+2020,"Ottawa/Macdonald-Cartier International, Ontario",,Transborder sector,Number,223,units,0,v65779043,76.6,161744,,,,0
+2021,"Ottawa/Macdonald-Cartier International, Ontario",,Transborder sector,Number,223,units,0,v65779043,76.6,11684,,,,0
+2017,"Ottawa/Macdonald-Cartier International, Ontario",,Other International sector,Number,223,units,0,v65779044,76.7,379189,,,,0
+2018,"Ottawa/Macdonald-Cartier International, Ontario",,Other International sector,Number,223,units,0,v65779044,76.7,380162,,,,0
+2019,"Ottawa/Macdonald-Cartier International, Ontario",,Other International sector,Number,223,units,0,v65779044,76.7,420894,,,,0
+2020,"Ottawa/Macdonald-Cartier International, Ontario",,Other International sector,Number,223,units,0,v65779044,76.7,160725,,,,0
+2021,"Ottawa/Macdonald-Cartier International, Ontario",,Other International sector,Number,223,units,0,v65779044,76.7,12053,,,,0
+2017,"Toronto/Lester B Pearson International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779614,161.1,45884420,,,,0
+2018,"Toronto/Lester B Pearson International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779614,161.1,48494047,,,,0
+2019,"Toronto/Lester B Pearson International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779614,161.1,49187804,,,,0
+2020,"Toronto/Lester B Pearson International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779614,161.1,12996101,,,,0
+2021,"Toronto/Lester B Pearson International, Ontario",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779614,161.1,12368926,,,,0
+2017,"Toronto/Lester B Pearson International, Ontario",,Domestic sector,Number,223,units,0,v65779618,161.5,17239092,,,,0
+2018,"Toronto/Lester B Pearson International, Ontario",,Domestic sector,Number,223,units,0,v65779618,161.5,17681786,,,,0
+2019,"Toronto/Lester B Pearson International, Ontario",,Domestic sector,Number,223,units,0,v65779618,161.5,17680397,,,,0
+2020,"Toronto/Lester B Pearson International, Ontario",,Domestic sector,Number,223,units,0,v65779618,161.5,5246394,,,,0
+2021,"Toronto/Lester B Pearson International, Ontario",,Domestic sector,Number,223,units,0,v65779618,161.5,6525784,,,,0
+2017,"Toronto/Lester B Pearson International, Ontario",,Transborder sector,Number,223,units,0,v65779619,161.6,12621260,,,,0
+2018,"Toronto/Lester B Pearson International, Ontario",,Transborder sector,Number,223,units,0,v65779619,161.6,13462206,,,,0
+2019,"Toronto/Lester B Pearson International, Ontario",,Transborder sector,Number,223,units,0,v65779619,161.6,13624780,,,,0
+2020,"Toronto/Lester B Pearson International, Ontario",,Transborder sector,Number,223,units,0,v65779619,161.6,3001042,,,,0
+2021,"Toronto/Lester B Pearson International, Ontario",,Transborder sector,Number,223,units,0,v65779619,161.6,2241991,,,,0
+2017,"Toronto/Lester B Pearson International, Ontario",,Other International sector,Number,223,units,0,v65779620,161.7,16024068,,,,0
+2018,"Toronto/Lester B Pearson International, Ontario",,Other International sector,Number,223,units,0,v65779620,161.7,17350055,,,,0
+2019,"Toronto/Lester B Pearson International, Ontario",,Other International sector,Number,223,units,0,v65779620,161.7,17882627,,,,0
+2020,"Toronto/Lester B Pearson International, Ontario",,Other International sector,Number,223,units,0,v65779620,161.7,4748665,,,,0
+2021,"Toronto/Lester B Pearson International, Ontario",,Other International sector,Number,223,units,0,v65779620,161.7,3601151,,,,0
+2017,"Winnipeg/James Armstrong Richardson International, Manitoba",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779630,163.1,4149531,,,,0
+2018,"Winnipeg/James Armstrong Richardson International, Manitoba",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779630,163.1,4406483,,,,0
+2019,"Winnipeg/James Armstrong Richardson International, Manitoba",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779630,163.1,4395426,,,,0
+2020,"Winnipeg/James Armstrong Richardson International, Manitoba",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779630,163.1,1235260,,,,0
+2021,"Winnipeg/James Armstrong Richardson International, Manitoba",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779630,163.1,1164252,,,,0
+2017,"Winnipeg/James Armstrong Richardson International, Manitoba",,Domestic sector,Number,223,units,0,v65779634,163.5,3544381,,,,0
+2018,"Winnipeg/James Armstrong Richardson International, Manitoba",,Domestic sector,Number,223,units,0,v65779634,163.5,3775086,,,,0
+2019,"Winnipeg/James Armstrong Richardson International, Manitoba",,Domestic sector,Number,223,units,0,v65779634,163.5,3729925,,,,0
+2020,"Winnipeg/James Armstrong Richardson International, Manitoba",,Domestic sector,Number,223,units,0,v65779634,163.5,967007,,,,0
+2021,"Winnipeg/James Armstrong Richardson International, Manitoba",,Domestic sector,Number,223,units,0,v65779634,163.5,1136066,,,,0
+2017,"Winnipeg/James Armstrong Richardson International, Manitoba",,Transborder sector,Number,223,units,0,v65779635,163.6,430235,,,,0
+2018,"Winnipeg/James Armstrong Richardson International, Manitoba",,Transborder sector,Number,223,units,0,v65779635,163.6,455202,,,,0
+2019,"Winnipeg/James Armstrong Richardson International, Manitoba",,Transborder sector,Number,223,units,0,v65779635,163.6,479541,,,,0
+2020,"Winnipeg/James Armstrong Richardson International, Manitoba",,Transborder sector,Number,223,units,0,v65779635,163.6,133523,,,,0
+2021,"Winnipeg/James Armstrong Richardson International, Manitoba",,Transborder sector,Number,223,units,0,v65779635,163.6,21388,,,,0
+2017,"Winnipeg/James Armstrong Richardson International, Manitoba",,Other International sector,Number,223,units,0,v65779636,163.7,174915,,,,0
+2018,"Winnipeg/James Armstrong Richardson International, Manitoba",,Other International sector,Number,223,units,0,v65779636,163.7,176195,,,,0
+2019,"Winnipeg/James Armstrong Richardson International, Manitoba",,Other International sector,Number,223,units,0,v65779636,163.7,185960,,,,0
+2020,"Winnipeg/James Armstrong Richardson International, Manitoba",,Other International sector,Number,223,units,0,v65779636,163.7,134730,,,,0
+2021,"Winnipeg/James Armstrong Richardson International, Manitoba",,Other International sector,Number,223,units,0,v65779636,163.7,6798,,,,0
+2017,"Calgary International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778574,13.1,15582707,,,,0
+2018,"Calgary International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778574,13.1,16762514,,,,0
+2019,"Calgary International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778574,13.1,17203118,,,,0
+2020,"Calgary International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778574,13.1,5321886,,,,0
+2021,"Calgary International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778574,13.1,5909265,,,,0
+2017,"Calgary International, Alberta",,Domestic sector,Number,223,units,0,v65778578,13.5,10832159,,,,0
+2018,"Calgary International, Alberta",,Domestic sector,Number,223,units,0,v65778578,13.5,11791293,,,,0
+2019,"Calgary International, Alberta",,Domestic sector,Number,223,units,0,v65778578,13.5,11858566,,,,0
+2020,"Calgary International, Alberta",,Domestic sector,Number,223,units,0,v65778578,13.5,4013536,,,,0
+2021,"Calgary International, Alberta",,Domestic sector,Number,223,units,0,v65778578,13.5,4973413,,,,0
+2017,"Calgary International, Alberta",,Transborder sector,Number,223,units,0,v65778579,13.6,3080246,,,,0
+2018,"Calgary International, Alberta",,Transborder sector,Number,223,units,0,v65778579,13.6,3258940,,,,0
+2019,"Calgary International, Alberta",,Transborder sector,Number,223,units,0,v65778579,13.6,3472175,,,,0
+2020,"Calgary International, Alberta",,Transborder sector,Number,223,units,0,v65778579,13.6,805475,,,,0
+2021,"Calgary International, Alberta",,Transborder sector,Number,223,units,0,v65778579,13.6,587907,,,,0
+2017,"Calgary International, Alberta",,Other International sector,Number,223,units,0,v65778580,13.7,1670302,,,,0
+2018,"Calgary International, Alberta",,Other International sector,Number,223,units,0,v65778580,13.7,1712281,,,,0
+2019,"Calgary International, Alberta",,Other International sector,Number,223,units,0,v65778580,13.7,1872377,,,,0
+2020,"Calgary International, Alberta",,Other International sector,Number,223,units,0,v65778580,13.7,502875,,,,0
+2021,"Calgary International, Alberta",,Other International sector,Number,223,units,0,v65778580,13.7,347945,,,,0
+2017,"Edmonton International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778870,52.1,7491278,,,,0
+2018,"Edmonton International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778870,52.1,8406040,,,,0
+2019,"Edmonton International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778870,52.1,7892679,,,,0
+2020,"Edmonton International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778870,52.1,2461545,,,,0
+2021,"Edmonton International, Alberta",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65778870,52.1,2593046,,,,0
+2017,"Edmonton International, Alberta",,Domestic sector,Number,223,units,0,v65778874,52.5,6216778,,,,0
+2018,"Edmonton International, Alberta",,Domestic sector,Number,223,units,0,v65778874,52.5,7025648,,,,0
+2019,"Edmonton International, Alberta",,Domestic sector,Number,223,units,0,v65778874,52.5,6514992,,,,0
+2020,"Edmonton International, Alberta",,Domestic sector,Number,223,units,0,v65778874,52.5,2093096,,,,0
+2021,"Edmonton International, Alberta",,Domestic sector,Number,223,units,0,v65778874,52.5,2493369,,,,0
+2017,"Edmonton International, Alberta",,Transborder sector,Number,223,units,0,v65778875,52.6,860430,,,,0
+2018,"Edmonton International, Alberta",,Transborder sector,Number,223,units,0,v65778875,52.6,974992,,,,0
+2019,"Edmonton International, Alberta",,Transborder sector,Number,223,units,0,v65778875,52.6,963819,,,,0
+2020,"Edmonton International, Alberta",,Transborder sector,Number,223,units,0,v65778875,52.6,212245,,,,0
+2021,"Edmonton International, Alberta",,Transborder sector,Number,223,units,0,v65778875,52.6,55086,,,,0
+2017,"Edmonton International, Alberta",,Other International sector,Number,223,units,0,v65778876,52.7,414070,,,,0
+2018,"Edmonton International, Alberta",,Other International sector,Number,223,units,0,v65778876,52.7,405400,,,,0
+2019,"Edmonton International, Alberta",,Other International sector,Number,223,units,0,v65778876,52.7,413868,,,,0
+2020,"Edmonton International, Alberta",,Other International sector,Number,223,units,0,v65778876,52.7,156204,,,,0
+2021,"Edmonton International, Alberta",,Other International sector,Number,223,units,0,v65778876,52.7,44591,,,,0
+2017,"Vancouver International, British Columbia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779670,169.1,23639196,,,,0
+2018,"Vancouver International, British Columbia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779670,169.1,25476699,,,,0
+2019,"Vancouver International, British Columbia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779670,169.1,25738851,,,,0
+2020,"Vancouver International, British Columbia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779670,169.1,7199495,,,,0
+2021,"Vancouver International, British Columbia",,"Total, passengers enplaned and deplaned",Number,223,units,0,v65779670,169.1,7003245,,,,0
+2017,"Vancouver International, British Columbia",,Domestic sector,Number,223,units,0,v65779674,169.5,11476921,,,,0
+2018,"Vancouver International, British Columbia",,Domestic sector,Number,223,units,0,v65779674,169.5,12267590,,,,0
+2019,"Vancouver International, British Columbia",,Domestic sector,Number,223,units,0,v65779674,169.5,12297884,,,,0
+2020,"Vancouver International, British Columbia",,Domestic sector,Number,223,units,0,v65779674,169.5,4076960,,,,0
+2021,"Vancouver International, British Columbia",,Domestic sector,Number,223,units,0,v65779674,169.5,4972263,,,,0
+2017,"Vancouver International, British Columbia",,Transborder sector,Number,223,units,0,v65779675,169.6,5911459,,,,0
+2018,"Vancouver International, British Columbia",,Transborder sector,Number,223,units,0,v65779675,169.6,6239264,,,,0
+2019,"Vancouver International, British Columbia",,Transborder sector,Number,223,units,0,v65779675,169.6,6299058,,,,0
+2020,"Vancouver International, British Columbia",,Transborder sector,Number,223,units,0,v65779675,169.6,1316346,,,,0
+2021,"Vancouver International, British Columbia",,Transborder sector,Number,223,units,0,v65779675,169.6,931359,,,,0
+2017,"Vancouver International, British Columbia",,Other International sector,Number,223,units,0,v65779676,169.7,6250816,,,,0
+2018,"Vancouver International, British Columbia",,Other International sector,Number,223,units,0,v65779676,169.7,6969845,,,,0
+2019,"Vancouver International, British Columbia",,Other International sector,Number,223,units,0,v65779676,169.7,7141909,,,,0
+2020,"Vancouver International, British Columbia",,Other International sector,Number,223,units,0,v65779676,169.7,1806189,,,,0
+2021,"Vancouver International, British Columbia",,Other International sector,Number,223,units,0,v65779676,169.7,1099623,,,,0
