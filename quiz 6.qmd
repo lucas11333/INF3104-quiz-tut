@@ -1,0 +1,89 @@
+---
+title: "Quiz 5 Question"
+format: pdf
+editor: visual
+---
+
+## 
+
+```{r}
+friends_df <- data.frame(
+  People_who_measure = c('Ash', 'Jacki', 'Matt','Mike','Rol'),
+  people_1 = c(175, 176, 174,180,181),
+  people_2 = c(173, 174, 173,179.3,180),
+  people_3 = c(176, 175, 175,180,179),
+  people_4 = c(174, 175, 176,180,180),
+  people_5 = c(173, 175, 174,179.2,179),
+  people_6 = c(175, 176, 174,180,181),
+  people_7 = c(173, 174, 173,179.3,180),
+  people_8 = c(176, 175, 175,180,179),
+  people_9 = c(174, 175, 176,180,180),
+  people_10 = c(173, 175, 174,179.2,179),
+  people_11 = c(175, 176, 174,180,181),
+  people_12 = c(173, 174, 173,179.3,180),
+  people_13 = c(176, 175, 175,180,179),
+  people_14 = c(174, 175, 176,180,180),
+  people_15 = c(173, 175, 174,179.2,179),
+  people_16 = c(175, 176, 174,180,181),
+  people_17 = c(173, 174, 173,179.3,180),
+  people_18 = c(176, 175, 175,180,179),
+  people_19 = c(174, 175, 176,180,180),
+  people_20 = c(173, 175, 174,179.2,179)
+)
+friends_df
+
+```
+
+## - Simulation Test
+
+## 1. Variable Amount Test
+
+```{r}
+unique(friends_df$People_who_measure)
+
+```
+
+## 2. Null Value test
+
+```{r}
+any(is.na(friends_df))
+
+```
+
+## 3. The Count Variables Test
+
+```{r}
+ncol(friends_df)
+```
+
+## 4. Check if Contain the Duplicate Variables
+
+```{r}
+if (!any(duplicated(friends_df))) {
+  print("No duplicate rows found.")
+} else {
+  print("Contain the duplicate rows.")
+}
+```
+
+## 5. The Normal Test
+
+```{r}
+for (i in 2:ncol(friends_df)) {
+  if (shapiro.test(friends_df[,i])$p.value >= 0.05) {
+    print(paste("The Column", colnames(friends_df)[i], "is normal."))
+  } else {
+    print(paste("oops ! Failed for column", colnames(friends_df)[i], "."))
+  }
+}
+
+```
+
+```{r}
+library(ggplot2)
+ggplot(friends_df, aes(x = People_who_measure, y = (people_1 + people_2 + people_3 + people_4 + people_5 + people_6 + people_7 + people_8 + people_9 + people_10 + people_11 + people_12 + people_13 + people_14 + people_15 + people_16 + people_17 + people_18 + people_19 + people_20)/20, fill = People_who_measure)) +
+  geom_col(position = "dodge") +
+  ggtitle("Avg Height of Friends") +
+  xlab("Friend's Name") +
+  ylab("Avg Height (cm)")
+```
