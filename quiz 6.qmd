@@ -81,9 +81,29 @@ for (i in 2:ncol(friends_df)) {
 
 ```{r}
 library(ggplot2)
-ggplot(friends_df, aes(x = People_who_measure, y = (people_1 + people_2 + people_3 + people_4 + people_5 + people_6 + people_7 + people_8 + people_9 + people_10 + people_11 + people_12 + people_13 + people_14 + people_15 + people_16 + people_17 + people_18 + people_19 + people_20)/20, fill = People_who_measure)) +
-  geom_col(position = "dodge") +
-  ggtitle("Avg Height of Friends") +
-  xlab("Friend's Name") +
-  ylab("Avg Height (cm)")
+
+ggplot(data = friends_df, aes(x = People_who_measure, y = people_1)) +
+  geom_point(size = 4, color = "red") +
+  geom_line(size = 1.5, color = "red") +
+  geom_point(aes(y = people_2), size = 4, color = "black") +
+  geom_line(aes(y = people_2), size = 1.5, color = "blue") +
+  geom_point(aes(y = people_3), size = 4, color = "green") +
+  geom_line(aes(y = people_3), size = 1.5, color = "red") +
+  labs(x = "People who measure", y = "Height (cm)") +
+  theme_classic()
+
+
+```
+
+```{r}
+ggplot(data = friends_df, aes(x = People_who_measure, y = people_1)) +
+  geom_boxplot(width = 0.5, fill = "skyblue") +
+  scale_y_continuous(limits = c(160, 185), expand = c(0,0)) +
+  labs(x = "People who measured", y = "Person Height (cm)") +
+  ggtitle(" Height for All People") +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) +
+  theme(plot.title = element_text(face = "bold", size = 10)) +
+  theme(axis.title = element_text(face = "bold", size = 10))
+
 ```
