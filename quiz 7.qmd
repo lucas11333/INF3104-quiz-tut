@@ -1,0 +1,102 @@
+---
+title: "quiz"
+format: html
+editor: visual
+---
+
+## 
+
+```{r}
+
+couple_Student_one <- rnorm(100, mean = 25, sd = 5)
+couple_Student_two <- rnorm(100, mean = couple_Student_one + 5, sd = 5)
+student_three <- rnorm(100, mean = 20, sd = 5)
+student_four <- rnorm(100, mean = 25, sd = 5)
+student_five <- rnorm(100, mean = 30, sd = 5)
+
+
+data <- data.frame(
+ couple_Student_one = couple_Student_one,
+  couple_Student_two = couple_Student_two,
+  student_three  = student_three ,
+  student_four = student_four,
+  student_five = student_five
+)
+
+
+head(data)
+
+```
+
+To test if there exist the null value in the data.
+
+```{r}
+any(is.na(data))
+
+
+```
+
+get the result of the unique from data.
+
+```{r}
+unique(data)
+```
+
+Testing to make sure there exist five students to participant this activities.
+
+```{r}
+ncol(data)
+```
+
+To find is there any duplicate rows to be found.
+
+```{r}
+if (!any(duplicated(data))) {
+  print("No duplicate rows found.")
+} else {
+  print("Contain the duplicate rows.")
+}
+```
+
+Test the value whether is the normal.
+
+```{r}
+for (i in 2:ncol(data)) {
+  if (shapiro.test(data[,i])$p.value >= 0.05) {
+    print(paste("The Column", colnames(data)[i], "is normal."))
+  } else {
+    print(paste("oops ! Failed for column", colnames(data)[i], "."))
+  }
+}
+```
+
+I made different color based on the people in the couple group.
+
+```{r}
+
+ggplot(data, aes(x = couple_Student_one, y = couple_Student_two, color = "Group 1")) +
+  geom_point(size = 3) +
+  scale_color_manual(values = c("Group 1" = "red")) +
+  labs(x = "Student One", y = "Student Two", color = "Group") +
+  ggtitle("Relationship between Student One and Student Two") +
+  theme_minimal()
+```
+
+Now, there is the relation of the student_three , student_four, student_five. (The density graph)
+
+```{r}
+library(ggplot2)
+
+
+df <- data.frame(
+  value = c(data$student_three, data$student_four, data$student_five),
+  group = rep(c("Student Three", "Student Four", "Student Five"), each = 100)
+)
+
+
+ggplot(df, aes(x = value, fill = group)) +
+  geom_density(alpha = 0.5) +
+  scale_fill_manual(values = c("Student Three" = "black", "Student Four" = "blue", "Student Five" = "pink")) +
+  labs(x = "Value", y = "Density", title = "Density Plot of Student Scores")
+
+```
